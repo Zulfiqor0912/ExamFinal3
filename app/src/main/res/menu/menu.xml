@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/courseScreen"
+        android:icon="@drawable/courses"
+        android:title="Courses"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/profileScreen"
+        android:icon="@drawable/profile"
+        android:title="Profile"
+        app:showAsAction="never" />
+
+
+    <item
+        android:id="@+id/settingsScreen"
+        android:icon="@drawable/wheel_1"
+        android:title="Settings"
+        app:showAsAction="never" />
+</menu>
